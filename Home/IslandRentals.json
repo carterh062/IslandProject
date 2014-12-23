@@ -1,0 +1,181 @@
+{
+  "property": [
+    { 
+      "address": "75 Alii Dr APT 4, Kailua Kona, HI 96740",
+      "price": 2850,
+      "size": {
+        "num_bedrooms": 3,
+        "num_bathrooms": 3,
+        "sq_ft": 1884,
+        "lot_sq_ft": 1884
+      },
+      "proximity_to_volcanoe": 46,
+      "school_rating": 7,
+      "distance_to_bar": 0.5,
+      "image": "http://photos1.zillowstatic.com/p_f/ISppo5ttqqekwu0000000000.jpg",
+      "home_type": "townhouse",
+      "distance_to_public_transit": 1.2
+    },
+    {
+      "address": "78 Holua Road Master, Kailua-kona, HI 96740",
+      "price": 40000,
+      "size": {
+        "num_bedrooms": 4,
+        "num_bathrooms": 4,
+        "sq_ft": 4720,
+        "lot_sq_ft": 126324
+      },
+      "proximity_to_volcanoe": 52,
+      "school_rating": 5,
+      "distance_to_bar": 1.7,
+      "image": "http://photos1.zillowstatic.com/p_f/ISx7kod13kgd991000000000.jpg",
+      "home_type": "single family",
+      "distance_to_public_transit": 0.9
+    },
+    {
+      "address": "83 Mamalahoa Hwy, Captain Cook, HI 96704",
+      "price": 2550,
+      "size": {
+        "num_bedrooms": 5,
+        "num_bathrooms": 4,
+        "sq_ft": 3500,
+        "lot_sq_ft": 40000
+      },
+      "proximity_to_volcanoe": 24,
+      "school_rating": 5,
+      "distance_to_bar": 3.2,
+      "image": "http://photos2.zillowstatic.com/p_h/ISpp0blssne8n9000000000.jpg",
+      "home_type": "single family",
+      "distance_to_public_transit": 2.3
+    },
+    {
+      "address": "382 Kihikihi Rd, Captain Cook, HI 96704",
+      "price": 4000,
+      "size": {
+        "num_bedrooms": 3,
+        "num_bathrooms": 2,
+        "sq_ft": 1400,
+        "lot_sq_ft": 8032
+      },
+      "proximity_to_volcanoe": 17,
+      "school_rating": 5,
+      "distance_to_bar": "2.1",
+      "image": "http://photos2.zillowstatic.com/p_h/IS1z70l45t225j0000000000.jpg",
+      "home_type": "single family",
+      "distance_to_public_transit": 0.3
+    },
+    {
+      "address": "66 Puueo St, Hilo, HI 96720",
+      "price": 750,
+      "size": {
+        "num_bedrooms": 1,
+        "num_bathrooms": 1,
+        "sq_ft": 500,
+        "lot_sq_ft": 500
+      },
+      "proximity_to_volcanoe": 28,
+      "school_rating": 6,
+      "distance_to_bar": 0.2,
+      "image": "http://photos1.zillowstatic.com/p_h/IS95e7m5vdx31v0000000000.jpg",
+      "home_type": "apartment",
+      "distance_to_public_transit": 0.1
+    },
+    {
+      "address": "355 Kalanianaole Ave # 228, Hilo, HI 96720",
+      "price": 1300,
+      "size": {
+        "num_bedrooms": 1,
+        "num_bathrooms": 1,
+        "sq_ft": 495,
+        "lot_sq_ft": 495
+      },
+      "proximity_to_volcanoe": 18,
+      "school_rating": 6,
+      "distance_to_bar": 0.5,
+      "image": "http://photos3.zillowstatic.com/p_h/IStcdjvx96v9i00000000000.jpg",
+      "home_type": "apartment",
+      "distance_to_public_transit": 0.3
+    },
+    {
+      "address": "2405 Kalanianaole Ave PH 8, Hilo, HI 96720",
+      "price": 1100,
+      "size": {
+        "num_bedrooms": 2,
+        "num_bathrooms": 2,
+        "sq_ft": 1070,
+        "lot_sq_ft": 1070
+      },
+      "proximity_to_volcanoe": 5,
+      "school_rating": 6,
+      "distance_to_bar": 7,
+      "image": "http://photos1.zillowstatic.com/p_h/ISdseiauu2zm4v1000000000.jpg",
+      "home_type": "apartment",
+      "distance_to_public_transit": 0.7
+    },
+    {
+      "address": "69-555 Waikoloa Beach Dr APT 1006, Waikoloa, HI 96738",
+      "price": 2150,
+      "size": {
+        "num_bedrooms": 2,
+        "num_bathrooms": 2,
+        "sq_ft": 1095,
+        "lot_sq_ft": 1070
+      },
+      "proximity_to_volcanoe": 27,
+      "school_rating": 8,
+      "distance_to_bar": 3,
+      "image": "http://photos3.zillowstatic.com/p_h/IShnljp0l6rfyn0000000000.jpg",
+      "home_type": "townhome",
+      "distance_to_public_transit": 0.7
+    },
+    {
+      "address": "Kihikihi Rd, Captain Cook, HI 96704",
+      "price": 4000,
+      "size": {
+        "num_bedrooms": 3,
+        "num_bathrooms": 2,
+        "sq_ft": 1400,
+        "lot_sq_ft": 5070
+      },
+      "proximity_to_volcanoe": 60,
+      "school_rating": 4,
+      "distance_to_bar": 2,
+      "image": "http://photos2.zillowstatic.com/p_h/IS1z70l45t225j0000000000.jpg",
+      "home_type": "townhome",
+      "distance_to_public_transit": 1
+    },
+    {
+      "address": "77-6434 Kilohana St, Kailua Kona, HI 96740",
+      "price": 6000,
+      "size": {
+        "num_bedrooms": 4,
+        "num_bathrooms": 2.5,
+        "sq_ft": 2450,
+        "lot_sq_ft": 10070
+      },
+      "proximity_to_volcanoe": 40,
+      "school_rating": 8,
+      "distance_to_bar": 1.5,
+      "image": "http://photos3.zillowstatic.com/p_h/IS5eqzd0mabzpq0000000000.jpg",
+      "home_type": "single family",
+      "distance_to_public_transit": 0.8
+    },
+    {
+      "address": "111 Kuikahi St, Hilo, HI 96720",
+      "price": 2700,
+      "size": {
+        "num_bedrooms": 2,
+        "num_bathrooms": 2,
+        "sq_ft": 1300,
+        "lot_sq_ft": 38000
+      },
+      "proximity_to_volcanoe": 25,
+      "school_rating": 6,
+      "distance_to_bar": 2.2,
+      "image": "http://photos3.zillowstatic.com/p_h/IS95qg9nv7yqn61000000000.jpg",
+      "home_type": "single family",
+      "distance_to_public_transit": 1
+    },
+    {}
+  ]
+}
